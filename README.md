@@ -1,6 +1,7 @@
 # Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach
 
 Course can be found in [Coursera](https://www.coursera.org/learn/ml-foundations)
+Provided by University of Washington
 
 Notebook for quick search can be found in my blog [SSQ](https://ssq.github.io/2017/08/19/Coursera%20UW%20Machine%20Learning%20Specialization%20Notebook/)
 
